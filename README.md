@@ -21,3 +21,5 @@
 <a href="https://blog.naver.com/wjdrbehd1174">
 <img src="https://img.shields.io/badge/MY BLOG-6DB33F?style=for-the-badge&logo=Bloglovin&logoColor=white"/>
 </a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyudong0920&show_icons=true&theme=radical)
