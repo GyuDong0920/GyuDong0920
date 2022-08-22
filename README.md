@@ -3,6 +3,8 @@
 
 
 <div align="center">
+  <h4>안녕하세요</h4>
+  <h3>열정이넘치는 개발자 정규동입니다.</h3>
   <h2>MY SKills</h2>
 <a href="https://blog.naver.com/wjdrbehd1174">
 
