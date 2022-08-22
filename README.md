@@ -3,8 +3,6 @@
 
 
 <div align="center">
-  <img src="https://cdn.pixabay.com/photo/2016/11/22/19/33/whale-1850235__340.jpg"/>
-<h4>넓은 바다를 자유롭게 헤엄치는 고래처럼</h4>
   <h2>MY SKills</h2>
 <a href="https://blog.naver.com/wjdrbehd1174">
 
